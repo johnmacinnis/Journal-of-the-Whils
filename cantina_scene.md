@@ -48,6 +48,7 @@ forward to killing you for a long
 time.
 
 **[HAN]**  Yes, I'll bet you have.
+<!-- Han Shoots First>
 
 ```
                                    __ 1      1 __        _.xxxxxx.
