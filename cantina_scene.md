@@ -14,7 +14,7 @@ This is a change I made on GitHub.
 
 **[HAN]**  Yes, Greedo. As a matter of fact, I
 was just going to see your boss.
-Tell Jabba that I've got his money.
+Tell that slimy bastard, Jabba that I've got his money.
 
 **[GREEDO]**  It's too late. You should have paid
 him when you had the chance. Jabba's
