@@ -8,7 +8,7 @@
                                    |
                                    |    
 ```
-This is a change I made on GitHub.
+This is another change I made on GitHub.
 
 **[GREEDO]**  Going somewhere, Solo?
 
